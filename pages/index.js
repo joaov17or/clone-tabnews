@@ -8,7 +8,9 @@ function Home() {
             
             <h1 style={{ 
                 fontSize: "96px",   // aumenta a fonte
-                fontFamily: "Monaco, sans-serif" }}> CURSO.DEV </h1> 
+                fontWeight: "bold",  // negrito
+                fontFamily: "Monaco, sans-serif" }}> curso.dev 
+            </h1> 
         </div>
     );
 } //criando uma apresentação;
