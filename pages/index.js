@@ -1,7 +1,14 @@
 function Home() {
     return (
-        <div style={{ backgroundColor: "#868686ff", height: "100vh" }}>
-            <h1 style={{ fontFamily: "Arial, sans-serif" }}> Olá, Mundo! </h1> 
+        <div style={{ 
+            display: "flex",
+            justifyContent: "center", // alinhando na horizontal
+            alignItems: "center", // alinhando na vertical
+            backgroundColor: "#ec9876ff", height: "100vh" }}> 
+            
+            <h1 style={{ 
+                fontSize: "96px",   // aumenta a fonte
+                fontFamily: "Monaco, sans-serif" }}> CURSO.DEV </h1> 
         </div>
     );
 } //criando uma apresentação;
