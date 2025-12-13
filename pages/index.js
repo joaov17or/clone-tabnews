@@ -9,7 +9,7 @@ function Home() {
             <h1 style={{ 
                 fontSize: "96px",   // aumenta a fonte
                 fontWeight: "bold",  // negrito
-                fontFamily: "Monaco, sans-serif" }}> Vc está sendo observado(@)! 
+                fontFamily: "Monaco, sans-serif" }}> Karol, se vc me ama, dá uma risadinha! 
             </h1> 
         </div>
     );
